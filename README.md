@@ -7,15 +7,15 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kemalbey7&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](http://myurls.co/muhammadamin.ozodov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalbey7&theme=github_dark&show_icons=true)](https://github.com/kemalbey7/) 
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
+[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=kemalbey7&theme=github_dark&show_icons=true)](https://github.com/kemalbey7/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kemalbey7&theme=tokyonight_duo&hide_border=true)](https://github.com/kemalbey7/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
@@ -51,16 +51,16 @@
 **Learning**
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=Mr-Muhammadamin&color=brightgreen" alt="Mr-Muhammadamin"/>
+<img src="https://komarev.com/ghpvc/?username=kemalbey7&color=brightgreen" alt="Mr-Muhammadamin"/>
 <a href="https://github.com/Mr-Muhammadamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mr-Muhammadamin?label=Followers&style=social" alt="followers-count">
+    <img src="https://img.shields.io/github/followers/kemalbey7?label=Followers&style=social" alt="followers-count">
 </a>
 
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Mr-Muhammadamin&theme=xcode" />
+<img src="https://activity-graph.herokuapp.com/graph?username=kemalbey7&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&margin-w=5&theme=radical" alt="info" />
+<img src="https://github-profile-trophy.vercel.app/?username=kemalbey7&margin-w=5&theme=radical" alt="info" />
 
 <p>
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
@@ -101,6 +101,6 @@
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&show_icons=true&theme=gotham" alt="Mr-Muhammadamin" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kemalbey7&show_icons=true&theme=gotham" alt="kemalbey7" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Mr-Muhammadamin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemalbey7&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="kemalbey7" /></a> </p>
