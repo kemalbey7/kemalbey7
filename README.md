@@ -5,7 +5,7 @@
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Muhammadamin&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kemalbey7&theme=github_dark" alt="info">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](http://myurls.co/muhammadamin.ozodov)
 
